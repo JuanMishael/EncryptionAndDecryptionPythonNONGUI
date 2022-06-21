@@ -12,5 +12,5 @@ study purpose)
 main.py is the program itself.
 if there's filekey.key it is most commonly because someone used the program and generate it(it is recommended to create a new one for security purposes and keep it to yourself in case you need it including a 
 copy of textfile.txt( to decrypt it ofcourse you need to go bakc to this application to decyper it, place all that you copy(textfile.txt and filekey.key) in this folder))
-
-
+DONT FORGOT TO INSTALL THE CRYPTOGRAPHY MODULE FOR THIS TO WORK
+just type at the terminal or at your cmd pip install cryptography
